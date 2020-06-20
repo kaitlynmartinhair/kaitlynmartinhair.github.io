@@ -528,6 +528,14 @@ Three
     </item>
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Booking</title>
       <link>/booking/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
